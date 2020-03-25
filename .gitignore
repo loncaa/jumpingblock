@@ -1,0 +1,15 @@
+dist
+node_modules
+npm-debug.log
+
+*.log
+
+.vscode
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+package-lock.json
+/.eslintrc.json
